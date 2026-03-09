@@ -1,19 +1,22 @@
-URL,Laptop Name,Brand,Brand Reliability,CPU,CPU Performance,GPU,GPU Performance,VRAM,RAM,Battery,Screen Size,Resolution,System,Weight,Storage,Temperature,New,Price
-https://bestware.com/en/schenker-work-17-m23.html#product.info.configuration,Schenker,Schenker,,i7-1360P,18465,Iris Xe Graphics G7 96EUs ,1.9,0,32,9.9,17.3,2073600,NoOS,2.279,1000,36.5,1,6217
-,Legion 5 Pro-16,Lenovo,2.1%,Ryzen 5 5600H,16471,RTX 3050 4GB Laptop GPU,4.5,4,16,7,16,4096000,Linux,2.45,512,39.9,1,4999
-,Huawei Matebook 16,Huawei,1.2%,Ryzen 7 5800H,20615,Radeon RX Vega 8 (Ryzen 4000/5000),1.4,0,16,84,16,4233600,Windows,1.99,512,40.2,1,4548
-https://www.apple.com/pl/shop/buy-mac/macbook-pro/16-calowy,MacBook Pro,Apple,0.70%,M4 Max,78.3,M4 Max 40-Core GPU,64.45,0,48,72.4,16.2,7720704,MacOS,2.15,1000,42.8,1,21499
-,AERO 16 XE5,Gigabyte ,3.6%,i7-12700H,52.4,3070 Ti,58.1,8,32,99,16,9216000,Windows,2.3,2000,49,1,10099
-,ThinkPad X1 EXTREME G5,Lenovo,2.60%,i9-12900H,52.5,3080 Ti,65,16,64,90,16,9216000,Windows,1.9,2048,52,1,12500
-https://system76.com/laptops/addw4/configure,Adder WS,System 76,,i9-14900HX,67.8,RTX 4050,50.6,6,64,53.35,15.6,2073600,Linux,2.3,1000,,1,7744
-,ASUS VivoBook 15,Asus,3.30%,i3-8145U,16.2,MX250,12,2,8,37,15.6,2073600,Linux,1.9,256,,1,2200
-https://system76.com/laptops/darp10/configure,Darter Pro,System 76,,Ultra 7 155H,50.9,Arc 8-Core iGPU,24.5,0,32,73,16,2304000,Linux,1.93,1000,,1,6748
-https://techlord.pl/hp-elitebook-840-14-g10-wolf-pro-security-edition-i7-1355u64gb512gbw11p-36m-p-15454.html,EliteBook 840,HP,1.90%,i7-1355U,46.1,Iris Xe Graphics G7 96EUs ,13.3,0,64,51,14,2304000,Windows,1.36,512,32.8,1,6999
-https://frame.work/pl/en/products/laptop16-diy-amd-7040/configuration/new,Laptop 16 ,Framework,,9 7940HS,55.1,RX 7700S,44.1,8,64,85,16,4096000,Linux,2.42,1000,42.4,1,12678
-https://consumer.huawei.com/pl/laptops/matebook-x-pro-ultra-premium-edition/buy/,MateBook X Pro,Huawei,1.1%,9 185H,54.2,Intel Arc 8-Core iGPU,24.5,0,32,70,14.2,6489600,Windows,0.98,2000,43.2,1,9899
-https://bestware.com/en/xmg-neo-16-e25.html#product.info.configuration,NEO 16,XMG,,Ultra 9 275HX,72.8,RTX 5080,91,16,64,99.8,16,4096000,Linux,2.65,1000,47,1,14283
-https://allegro.pl/oferta/asus-proart-p16-h7606wi-me083x-ryzen-ai9-hx370-64gb-2tb-rtx-4070-win-11-pro-16974989274?utm_feed=3dca5096-1f0f-4ca6-9f37-f55ca2fec4f7&utm_source=ceneo&utm_medium=cpc&utm_campaign=feed&ceneo_cid=a8649da5-6a3a-fb63-46d3-5d698b899ac5,ProArt P16,Asus,3.30%,Ryzen AI 9 HX 370,59,RTX 4070,63.9,8,64,90,16,9216000,NoOS,1.81,2000,46.9,1,13999
-https://www.tuxedocomputers.com/en/TUXEDO-Stellaris-16-Gen6.tuxedo,Stellaris 16 - Gen6,Tuxedo,,i9-14900HX,67.8,RTX 4060,59.2,8,64,99,16,4096000,Linux,2.5,1000,,1,9427.46
-https://www.sklep-lenovo.pl/lenovo-thinkpad-x9-15-gen-1-21q60008pb.html,ThinkPad X9-15 Gen 1,Lenovo,2.60%,7 258V,50.3,140V,18.9,0,32,80,15.3,5184000,Windows,1.4,1000,42.1,1,11830
-https://delkom.pl/p/laptop-asus-tuf-gaming-f15-fx507vi-lp075-i7-13620h-15-6-fhd-144hz-64gb-2x1000ssd-rtx4070-dlss-3-175241,TUF Gaming F15,Asus,3.30%,i7-13620H ,52.9,RTX 4070,63.9,8,64,90,15.6,2073600,NoOS,2.2,1000,46.4,1,7199
-https://www.x-kom.pl/p/1275876-laptop-15-16-hp-zbook-power-16-g11-ryzen-9pro-8945hs-64gb-1tb-win11p.html,ZBook Power 16 G11,HP,1.90%,8945HS,55.4,780M,25.1,0,64,83,16,4096000,Windows,2.04,1000,40.6,1,9699
+URL,Laptop Name,Brand,Brand Reliability,CPU,CPU Performance,GPU,GPU Performance,VRAM,RAM,Battery,PPI,System,Weight,Storage,Temperature,New,Price
+https://bestware.com/en/xmg-neo-16-e25.html#product.info.configuration,NEO 16,XMG,,Ultra 9 275HX,56009,RTX 5090,19,24,64,352,189,Linux,2.65,2000,47,new,18073
+,ASUS VivoBook 15,Asus,3.3%,i3-8145U,3769,MX250,1.4,2,8,360,142,Linux,1.9,256,,new,2200
+,ThinkPad X1 EXTREME G5,Lenovo,2.1%,i9-12900H,26852,3080 Ti,11.6,16,64,399,283,Windows,1.9,2048,52,new,12500
+,Legion 5 Pro-16,Lenovo,2.1%,Ryzen 5 5600H,16471,RTX 3050 4GB Laptop GPU,4.5,4,16,420,189,Linux,2.45,512,39.9,new,4999
+,AERO 16 XE5,Gigabyte ,4.5%,i7-12700H,25229,3070 Ti,10.4,8,32,448,283,Windows,2.3,2000,49,new,10099
+https://techlord.pl/hp-elitebook-840-14-g10-wolf-pro-security-edition-i7-1355u64gb512gbw11p-36m-p-15454.html,EliteBook 840,HP,2%,i7-1355U,14029,Iris Xe Graphics G7 96EUs ,1.9,0,64,456,162,Windows,1.36,512,32.8,new,7299
+https://consumer.huawei.com/pl/laptops/matebook-x-pro-ultra-premium-edition/buy/,MateBook X Pro,Huawei,1.2%,Ultra 7 155H,24617,Intel Arc 8-Core iGPU,3.2,0,16,498,264,Windows,0.98,1000,43.2,new,6799
+https://bestware.com/en/schenker-work-17-m23.html#product.info.configuration,Schenker,Schenker,,i7-1360P,18465,Iris Xe Graphics G7 96EUs ,1.9,0,64,594,127,NoOS,2.279,1000,36.5,new,7613
+,Huawei Matebook 16,Huawei,1.2%,Ryzen 7 5800H,20615,Radeon RX Vega 8 (Ryzen 4000/5000),1.4,0,16,768,189,Windows,1.99,512,40.2,new,4548
+https://allegro.pl/oferta/laptop-apple-macbook-pro-14-m4-pro-12-cpu-16-gpu-48gb-2tb-gwiezdna-czern-18220779087,MacBook Pro,Apple,0.60%,M4 Pro 12 CPU,32733,16 GPU ,7.6,24,48,948,254,MacOS,1.6,2000,47.3,new,14400
+https://www.refurbed.pl/en-pl/p/apple-macbook-pro-2023-m3-14/315228/,MacBook Pro 2023,Apple,0.60%,M3 Max 16-Core CPU,41259,40-Core GPU,11.2,32,64,912,254,MacOS,1.55,2000,45.9,refurbished,12978
+https://www.apple.com/pl/shop/buy-mac/macbook-pro, MacBook Pro ,Apple,0.60%,M5 Max,,40-Core GPU,11.2,32,64,,,MacOS,,2000,,new,21499
+https://www.x-kom.pl/p/1353837-laptop-15-16-acer-nitro-16s-ai-ryzen-ai-9-365-64gb-2tb-win11px-rtx5070ti.html,Nitro 16S,Acer,2.50%, Ryzen™ AI 9 365,30408,5070Ti,16.6,12,64,,189,Windows,2.18,2000,,new,11499
+https://www.tuxedocomputers.com/en/TUXEDO-Stellaris-16-Gen7-AMD.tuxedo,Stellaris 16,TUXEDO,,Ryzen 9 9955HX,55893,RTX 5090,19,24,64,,189,Linux,2.65,2000,,new,20573
+https://bestware.com/en/xmg-neo-16-a25.html,NEO 16,XMG,,Ryzen 9 9955HX3D,62369,RTX 5090,19,24,64,570,189,NoOS,2.65,2000,47.9,new,18800
+https://www.amazon.pl/Lenovo-18IAX10-wy%C5%9Bwietlacz-GeForce-miesi%C4%85ce/dp/B0F5Z62961?dib=eyJ2IjoiMSJ9.j86ChbnHpHhsOcZ0Ja4_CCkBUnBchYRPf9UDFLwBoHl1qxc5zaSjgX5T57KaGX5C5qoEeFyPY20sG1Z_uiYNs1VADPhw__Q-ZX1QADPXiqHyzwkJOysNHU3ql6xcTq1nXYlFfOM5APhMEnrNkAUuIamzza-S_SqLh9YWC40cKmu6Ff7uru0NlzYzV_hKC6NriXZjk7ge-H37NHGJw65jXA.Y7-s2kBNznRYKNasrmZlIcjfpkI2LwEUKYc9Vv76xcU&dib_tag=se&qid=1773084307&refinements=p_n_g-1003119721111%3A100549553031|27399010031%2Cp_n_g-1004209391091%3A20899459031|20899460031|20899461031|20899463031%2Cp_n_g-101015423266111%3A100139797031|100139799031|100139803031|100139810031&rnid=100139773031&s=computers&sr=1-4,Legion 9i 18IAX10,Lenovo,2.1%,Ultra 9 275HX,56009,RTX 5090,19,16,64,336,252,Windows,3.532,2048,43,new,25742
+https://www.amazon.de/-/en/MSI-Display-GeForce-Keyboard-A2XWJG-656/dp/B096Z9C55M?dib=eyJ2IjoiMSJ9.vr1S7CWFHcMZ0w85hgvC1PTNHg-nEVIUklnq1_b9Niu7kh7Qn0_QJFDtsKmzcgRYRhqk5wGeEazc2dI1WD3LRA.QsgkLkMZfCYiKoIbH6SSc9aFjI2-JAv4YklCzbUsuB8&dib_tag=se&qid=1773084368&refinements=p_n_g-1003119721111%3A100549564031|27399051031%2Cp_n_feature_thirty-eight_browse-bin%3A11470324031%2Cp_n_g-101015423266111%3A100140451031|100140452031|100140454031|100140458031|100140465031%2Cp_n_g-1003119464111%3A27388223031%2Cp_n_g-1003119736111%3A27402531031&rnid=27402525031&s=computers&sr=1-4&th=1,Titan 18 HX AI Gaming Laptop,MSI,5.40%,Ultra 9 285HX,57483,RTX 5090,19,16,64,258,245,Windows,3.6,6000,48.2,new,27307
+https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadt/lenovo-thinkpad-t16g-gen-3-16-inch-intel-laptop/21v50013us,ThinkPad T16g,Lenovo,2.1%,Ultra 7 255HX ,49127,RTX5080,17.9,16,64,564,236,Windows,2.6,2048,43.9,new,18270
+https://techlord.pl/msi-vector-18-hx-ai-a2xwig-ultra-9-275hx64gb2tbrtx5080w11-240hz-dlss4-p-35500.html,Vector 18 HX AI A2XWIG,MSI,5.40%,Ultra 9 275HX,56009,RTX5080,17.9,16,64,,252,Windows,3.6,2000,,new,17299
+https://frame.work/pl/en/products/laptop16-diy-amd-7040/configuration/new,Laptop 16 ,Framework,,9 7940HS,29911,RX 7700S,9.5,8,64,,189,Linux,2.42,1000,42.4,new,12529
+https://geizhals.eu/asus-expertbook-ultra-b9406caa-th0176x-90nx09j1-m00650-a3723780.html,ExpertBook Ultra,Asus,3.3%,Ultra X7 358H,34550,Intel Arc B390,6.4,0,64,966,243,Windows,1.095,2000,38.6,new,11872
